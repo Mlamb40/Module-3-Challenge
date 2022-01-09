@@ -16,10 +16,9 @@ Libraries and Dependencies
   - Time Range : 00:00:00 to 23:59:00
 - Header in the data sets : Timestamp,Open,High,Low,Close,BTC Volume,USD Volume,Weighted Price
 
-If u open the screenshot of graph u can see some image of the graph i am talking like the compareing of data and the spread in a box form
+The data was captured and visualized. 
 
 
-In my analysia we would use specific date or range of date to draw graph to our data and see if there is any pattern or thing we can notice, We used manily line and box to draw our data our. 
+During my analysis I utilized specific data ranges to draw graphs and see if there is any concurent patterns or similarities that was consistent. 
 
 
-For example on one of the analysis we just the lower priced in on exchange wiht a higer on in a other to see if the spread was bigger then zero
